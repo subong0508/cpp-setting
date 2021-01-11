@@ -2,7 +2,7 @@
 C++ setting for mac vscode
 
 ## build
-g++ -g ~.cpp ~.cpp -o ~
+g++ -g {file_name}.cpp {file_name}.cpp -o {file_name}
 
 ## exec
-./~
+./{file_name}
